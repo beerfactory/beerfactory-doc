@@ -8,14 +8,14 @@ Ce site regroupe l'ensemble de la documentaion du projet depuis les étapes de f
 
 .. note::
 
-  Le projet *Lulu la nantaise* est réalisé dans le cadre des `OPENAteliers <http://openatelier.pingbase.net/>`_ organisés par `plateforme-C <http://www.plateforme-c.org/>`_, un fablab situé à Nantes. 
+  Le projet *Lulu la nantaise* est réalisé dans le cadre des `OPENAteliers <http://openatelier.pingbase.net/>`_ organisés par `plateforme-C <http://www.plateforme-c.org/>`_, le fablab de Nantes. 
 
 
 Contenu
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    cdc
    architecture

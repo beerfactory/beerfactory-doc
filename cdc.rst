@@ -2,17 +2,21 @@
 Cahier des charges
 **************************
 
-La pico-brasserie conçue répond à un ensemble de spécifications fonctionnelles et techniques décrites ci-dessous.
+Ce chapitre présente les besoins relatifs à l'activité de brassage ainsi que les contraintes techniques qui ont guidés aux choix de conception et de réalisation de la pico-brasserie *Lulu la nantaise*.
 
 
-Spécifications fonctionnelles
-=============================
+Besoins fonctionnels
+====================
+
+*Lulu la nantaise* doit répondre aux besoins de production de bière dans le cadre d'une activité amateur. Ces besoins sont de natures différentes.
 
 Capacité de brassage
+--------------------
 
    Le modèle de pico-brasserie proposé doit permettre d'assurer une petite production commerciale, soit entre 50 et 100 litres de bière à chaque brassin. La capacité réelle sera déterminé par le dimensionnement des éléments constitutifs de la pico-brasserie.
 
 Méthode de brassage
+-------------------
 
    Le modèle de pico-brasserie doit polyvalent être adapté aux différentes techniques de brassage :
 
@@ -20,12 +24,13 @@ Méthode de brassage
    * à partir d'extraits de grain.
 
 Hygiène et nettoyage
+--------------------
 
    Les matérieux utilisés doivent être adapté au transport et la conservation de liquide chaud (>= à 100°c). La construction et le fonctionnement de la pico-brasserie doit permettre un nettoyage simple mais efficace afin de garantir le niveau d'hygiène indispensable au processus de brassage.
 
 
-Spécifications techniques
-=========================
+Contraintes techniques
+======================
 
 Pilotage
 

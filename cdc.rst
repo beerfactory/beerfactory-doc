@@ -2,18 +2,29 @@
 Cahier des charges
 **************************
 
-Ce chapitre présente les besoins relatifs à l'activité de brassage ainsi que les contraintes techniques qui ont guidés aux choix de conception et de réalisation de la pico-brasserie *Lulu la nantaise*.
+Le projet `Lulu la nantaise <http://fablabo.net/wiki/LuluLaNantaise>`_ a pour objectif de concevoir et construire une pico-brasserie pilotable par un dispositif électronique et informatique. Avant toute chose, elle doit cependant répondre aux besoins du brasseur amateur qui sont principalement de disposer d'un équipement permettant:
+
+* d'assurer une production de bière régulière en quantité et en qualité;
+* d'expérimenter différentes techniques ou processus de brassage;
+* de satisfaire sa curiosité sa passion pour le brassage amateur;
+
+Les paragraphes suivants décrivent les caractéristiques retenues pour la conception de la pico-brasserie et qui permettent de satisfaire ces besoins. Ils décrivent également les contraintes techniques prises en compte dans la conception. 
 
 
 Besoins fonctionnels
 ====================
 
-*Lulu la nantaise* doit répondre aux besoins de production de bière dans le cadre d'une activité amateur. Ces besoins sont de natures différentes.
+La pico-brasserie *Lulu la nantaise* s'adresse aux brasseurs amateurs qui souhaitent disposer d'un équipement permettant d'assurer une production régulière de bière. Elle doit permettre au brasseur de maitriser les étapes de brassage afin d'assurer la qualité et la quantité de bière produite. Elle doit également offrir la souplesse nécessaire à la mise en oeuvre des différentes techniques de brassage.
+
+Les paragraphes suivants dévrivent les besoins fonctionnels de l'activité de brassage couverts par le modèle 
+
+assurer une produire répond à un ensemble de besoins 
+répond aux besoins doit répondre aux besoins d'une production de bière dans le cadre d'une activité amateur. Ces besoins sont de natures différentes.
 
 Capacité de brassage
 --------------------
 
-   Le modèle de pico-brasserie proposé doit permettre d'assurer une petite production commerciale, soit entre 50 et 100 litres de bière à chaque brassin. La capacité réelle sera déterminé par le dimensionnement des éléments constitutifs de la pico-brasserie.
+ Le modèle de pico-brasserie proposé doit permettre d'assurer une petite production commerciale, soit entre 50 et 100 litres de bière à chaque brassin. La capacité réelle sera déterminé par le dimensionnement des éléments constitutifs de la pico-brasserie.
 
 Méthode de brassage
 -------------------

@@ -4,7 +4,7 @@ Lulu la nantaise
 
 Le projet `Lulu la nantaise <http://fablabo.net/wiki/LuluLaNantaise>`_ a pour objectif de concevoir et construire une pico-brasserie pilotable par un dispositif électronique et informatique. 
 
-Ce site regroupe l'ensemble de la documentaion du projet depuis les étapes de fabrication jusqu'au mode d'emploi au quotidien dans le cadre d'une activité de brassage amateur. Cette documentation est libre de droit et ouverte à toute contribution. Le code source est disponible sur `Github <https://github.com/njouanin/lulu-doc>`_.
+Ce site regroupe l'ensemble de la documentaion produite dans le cadre du projet. Cette documentation est libre de droit et ouverte à toute contribution. Le code source est disponible sur `Github <https://github.com/njouanin/lulu-doc>`_.
 
 .. note::
 

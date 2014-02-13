@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Pico-brasserie'
-copyright = u'2013, Nico'
+project = u'Lulu La Nantaise'
+copyright = u'2014, Beerfactory'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'picodoc'
+htmlhelp_basename = 'luludoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'pico.tex', u'Documentation pico-brasserie',
+  ('index', 'lulu.tex', u'Documentation pico-brasserie',
    u'Nico', 'manual'),
 ]
 

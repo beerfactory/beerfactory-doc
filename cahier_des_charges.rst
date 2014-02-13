@@ -77,9 +77,9 @@ Dans son état opérationnelle, **l’encombrement de la pico-brasserie doit êt
 * Largeur max. : 2m
 * Profondeur max. : 0,7m
 
-Par ailleurs l'installation doit :
+Par ailleurs l'installation doit être :
 
-* être aussi mobile et que possible afin de permettre l'accès aux différents éléments ;
-* faciliter le démontage des éléments lors des opérations de nettoyage et de maintenance ;
-* être autonome et ne nécessiter que des raccordements aux réseaux électrique, eau froide et évacuation;
+* aussi mobile et que possible afin de permettre l'accès aux différents éléments ;
+* démontable afin de faciliter les opérations de nettoyage et de maintenance ;
+* autonome et ne nécessiter que des raccordements aux réseaux électrique, eau froide et évacuation;
 

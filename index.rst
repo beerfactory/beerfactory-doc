@@ -17,7 +17,7 @@ Les exigences de fonctionnement ainsi que les contraintes techniques prises en c
   Cette documentation est libre de droit et ouverte à toute contribution. Le code source est disponible sur `Github <https://github.com/njouanin/lulu-doc>`_.
 
 
-***********
+************
 Architecture
 ************
 

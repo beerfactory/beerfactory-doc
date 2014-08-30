@@ -2,7 +2,7 @@
 Cahier des charges
 ##################
 
-L'objectif final de ce projet est de concevoir et construire une pico-brasserie pilotable par un dispositif électronique et informatique. Avant toute chose, elle doit répondre aux besoins principaux du brasseur amateur  :
+L'objectif final de ce projet est de concevoir et construire une pico-brasserie pilotable par un dispositif électronique et informatique. Avant toute chose, elle doit répondre aux besoins principaux du brasseur amateur :
 
 * assurer une production de bière régulière en quantité et en qualité;
 * expérimenter différentes techniques et maitriser ses processus de brassage;
@@ -17,15 +17,15 @@ Description des exigences
 Relatives au processus de brassage
 ==================================
 
-La pico-brasserie Lulu la nantaise doit être **polyvalente** et permettre à l'utilisateur de réaliser des brassins basés sur différentes méthodes de brassage **tout grain** ou **à partir d'extrait de malt**.
+La pico-brasserie Beerfactory doit être **polyvalente** et permettre à l'utilisateur de réaliser des brassins basés sur différentes méthodes de brassage **tout grain** ou **à partir d'extrait de malt**.
 
 La pico-brasserie doit disposer des équipements permettant de réaliser les différentes étapes de brassage :
 
-* empâtage en `infusion` (mono ou multi paliers) ou en `décoction`;
+* empâtage en `infusion`_ (mono ou multi paliers) ou en `décoction`_;
 * ébullition ;
 * refroidissement et mise en fermentation ;
 
-Le dimensionnement des éléments de la pico-brasserie doit permettre d'assurer une **production comprise entre 20 et 70 litres** de bière à chaque brassin.
+Le dimensionnement des éléments de la pico-brasserie doit permettre d'assurer une **production comprise entre 20 et 100 litres** de bière à chaque brassin.
 
 Relatives au contrôle et pilotage
 =================================
@@ -53,7 +53,7 @@ Pour faciliter le contrôle et le pilotage, **la pico-brasserie reposera uniquem
 
 Le dimensionnement des éléments électriques devra être compatible avec le **fonctionnement de la pico-brasserie sur une installation électrique domestique**. Concrètement, la consommation maximale de la pico-brasserie ne devra dépasser la capacité de l'installation électrique et du contrat d'alimentation. Classiquement, les contrats domestiques limitent à 30A [#f1]_ le courant consommé par l'installation électrique. Une marge suffisante devra être prise en compte pour les autres équipements de l'installation.
 
-Eau et électricité font rarement bon ménage. **La sécurité de l'installation électrique et de l'utilisateur** constituent donc un impératif. L'installation de la pico-brasserie devra donc respecter les normes électriques en vigueur (à préciser), notamment :
+Eau et électricité font rarement bon ménage. **La sécurité de l'installation électrique et de l'utilisateur** constitue donc un impératif. L'installation de la pico-brasserie devra donc respecter les normes électriques en vigueur (à préciser), notamment :
 
 * la mise à la terre du corps des appareils métalliques;
 * un dimensionnement des conducteurs adapté aux courants;
@@ -70,12 +70,6 @@ Les **matériaux utilisés doivent être adaptés au transport et la conservatio
 
 * les tuyauteries seront en silicone;
 * les raccords et éléments métalliques seront en INOX de qualité alimentaire;
-
-Dans son état opérationnelle, **l’encombrement de la pico-brasserie doit être restreint** aux dimensions suivantes :
-
-* Hauteur max. : 1,70m
-* Largeur max. : 2m
-* Profondeur max. : 0,7m
 
 Par ailleurs l'installation doit être :
 
